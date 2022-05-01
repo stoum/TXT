@@ -1,1 +1,10 @@
-
+id B226
+Summary "In Delivery Information Page information displayed in Russian"
+Steps to reproduce:
+      1.Open Homepage Online Shop Site
+      2.Click on Delivery Information button
+Actual result "In Delivery Information Page information displayed in Russian"
+ExpectedResult "In Delivery Information Page information displayed in English"
+Severity high
+Priority low
+Attachments none
