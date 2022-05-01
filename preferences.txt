@@ -1,0 +1,5 @@
+favorite movie "The Bucket List"
+favorite series "Sniffer"
+favorite food trout
+favorite season autumn
+wish country Japan

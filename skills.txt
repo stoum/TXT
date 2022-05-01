@@ -1,0 +1,19 @@
+1) QA theory, SDLC, STLC
+2) client-server architecture
+3) HTTP methods
+4) HTTP codes
+5) JSON, XML
+6) Postman (JS, API,)
+7) Charles, Fiddler
+8) Dev Tools
+9) VPN
+10) Mobile testing
+11) XCode
+12) Android Studio
+13) terminal
+14) Bash
+15) SQL, Postgres
+16) Redis
+17) Jmeter
+18) Scrum
+19) Python basics
