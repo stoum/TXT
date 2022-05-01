@@ -1,0 +1,4 @@
+1.Karanin Alexander
+2.45 age
+3.1 pet
+4.1000$ salary
