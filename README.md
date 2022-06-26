@@ -1,5 +1,5 @@
 # TXT
-- Homework @sto_um.txt - first HW git about;
-- TestScript.sh - script for first git HW;
-- bug_report.txt - bug report fields;
-- checklist.txt - checklist fields.
+- bug_report.txt - bug report example;
+- new.txt - some info for Homework
+- preferences.txt - my preferences and wishlist for Homework
+- skills.txt - skills after courses
