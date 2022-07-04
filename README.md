@@ -1,4 +1,5 @@
 # TXT
+Created *txt files for Git homework
 Description:
 - bug_report.txt - bug report example;
 - new.txt - some info for Homework
